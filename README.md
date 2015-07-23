@@ -7,7 +7,7 @@
 - github: [jakevdp](http://github.com/jakevdp)
 
 This repository will contain files and other info associated with my PyData
-Seattle 2014 scikit-learn tutorial.
+Seattle 2015 scikit-learn tutorial.
 
 ## Installation Notes
 This tutorial requires the following packages:
